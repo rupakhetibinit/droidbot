@@ -1,9 +1,12 @@
 # Droidbot is a discord moderation bot
 
-This bot can help you to moderate your server. The website is currently a work in progress.
+This bot can help you to moderate your server. We currently don't have a website. The website is currently a work in progress.
 For now you can invite the bot to your server using [Invite Droidbot]()
 
 
+
+
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
