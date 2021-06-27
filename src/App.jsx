@@ -4,11 +4,12 @@ import './index.css';
 import Navbar from './Navbar';
 
 function App() {
-  return <>
-  <Navbar/>
-  <Body />
- // <Footer />
-  </>;
+	return (
+		<>
+			<Navbar />
+			<Body />
+		</>
+	);
 }
 
 export default App;
