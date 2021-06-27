@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+* {
+  margin: 0;
+  font: quicksand;
+  color: #343a40;
+}
+
+.navbar {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  background-color: #23272a;
+  padding: 20px;
+  display: flex;
+  max-width: auto;
+  align-items: center;
+  margin: 0 0;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar .droidbot h1 {
+  letter-spacing: 1px;
+  color: #f2f2f2;
+}
+
+.navbar .links {
+  margin-left: auto;
+}
+
+.navbar a {
+  letter-spacing: 1px;
+  color: #f2f2f2;
+  margin-left: 15px;
+  text-decoration: none;
+  padding-right: 0px;
+  padding-left: 5px;
+}
+
+.navbar a:hover {
+  color: #7289da;
+}
+
+.container {
+  height: 100vh;
+  background: url(bghead.png);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #343a40;
+}
+
+.container .droidbotimage {
+  padding-top: 100px;
+  display: block;
+  margin: auto;
+  width: 250px;
+  height: 250px;
+}
+.container h2 {
+  text-align: center;
+  color: #343a40;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #47597e;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #293b5f;
+}
+
+footer .foot{
+  display: flex;
+  max-width: auto;
+  align-items: center;
+}
