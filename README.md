@@ -1,6 +1,6 @@
-# Droidbot is a discord moderation bot
+# Droidbot is a fun discord moderation bot
 
-This bot can help you to moderate your server. We currently don't have a website. The website is currently a work in progress.
+This is a fun bot that can also help you to moderate your server. It has it's own economy. Our website is [DroidBot](https://droidbot.netlify.app). The website is currently a work in progress.
 For now you can invite the bot to your server using [Invite Droidbot](https://discord.com/oauth2/authorize?client_id=825383004812869652&scope=bot&permissions=379904&fbclid=IwAR0rF8wewZae30gnhEWKcX4RzIgLFNUn0vzd4c9AIDmOu3BUrIm46-NQ2aE)
 
 
